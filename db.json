@@ -1,0 +1,206 @@
+{
+  "status": [
+    {
+      "id": "1",
+      "name": "Còn hàng"
+    },
+    {
+      "id": "2",
+      "name": "Hết hàng"
+    }
+  ],
+  "products": [
+    {
+      "name": "Small Metal Table ti",
+      "cate_id": "3",
+      "MotaNgan": " ",
+      "image": "https://colorlib.com/etc/fashe/images/item-06.jpg",
+      "price_regular": "35.00",
+      "price_sale": "39.00",
+      "status_id": "1",
+      "id": "22"
+    },
+    {
+      "name": "Unbranded Cotton Sausages",
+      "cate_id": "2",
+      "image": "https://colorlib.com/etc/fashe/images/item-07.jpg",
+      "id": "23",
+      "MotaNgan": "Lorem Ipsum is simply dummy text of the printing and typesetting industry ",
+      "price_regular": "922.00",
+      "price_sale": "920.00",
+      "status_id": "1",
+      "chiTietSanPham": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": "24",
+      "name": "Sleek Frozen Chips",
+      "cate_id": "2",
+      "image": "https://colorlib.com/etc/fashe/images/item-12.jpg",
+      "MotaNgan": "Lorem Ipsum is simply dummy text of the printing and typesetting industry ",
+      "price_regular": "697.00",
+      "price_sale": "680.00",
+      "status_id": "2",
+      "chiTietSanPham": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+    },
+    {
+      "id": "25",
+      "name": "Ergonomic Steel Shirt",
+      "cate_id": "3",
+      "image": "https://colorlib.com/etc/fashe/images/item-01.jpg",
+      "MotaNgan": "Lorem Ipsum is simply dummy text of the printing and typesetting industry ",
+      "price_regular": "498.00",
+      "price_sale": "480.00",
+      "status_id": "1",
+      "chiTietSanPham": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": "26",
+      "name": "Intelligent Concrete Bacon",
+      "cate_id": "4",
+      "image": "https://colorlib.com/etc/fashe/images/item-14.jpg",
+      "MotaNgan": "Lorem Ipsum is simply dummy text of the printing and typesetting industry ",
+      "price_regular": "98.00",
+      "price_sale": "80.00",
+      "status_id": "1",
+      "chiTietSanPham": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Handcrafted Concrete Hat",
+      "cate_id": "5",
+      "MotaNgan": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://colorlib.com/etc/fashe/images/item-02.jpg",
+      "price_regular": "25.00",
+      "price_sale": "19.00",
+      "id": "27",
+      "status_id": "2",
+      "chiTietSanPham": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "name": "Incredible Cotton Tuna",
+      "cate_id": "3",
+      "status_id": "1",
+      "MotaNgan": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "https://colorlib.com/etc/fashe/images/item-06.jpg",
+      "price_regular": "35.00",
+      "price_sale": "30.00",
+      "id": "28"
+    },
+    {
+      "name": "Generic Plastic Tuna",
+      "cate_id": "5",
+      "status_id": "1",
+      "MotaNgan": "It is a long established fact that a reader will be distracted by the readable",
+      "image": "https://colorlib.com/etc/fashe/images/item-17.jpg",
+      "price_regular": "5455",
+      "price_sale": "5455",
+      "id": "29",
+      "chiTietSanPham": "helllo"
+    }
+  ],
+  "category": [
+    {
+      "cate_name": "Jean",
+      "image": "https://aaajeans.com/wp-content/uploads/2019/03/quan-jean-nu-skdct_xb-1.jpg",
+      "desc": "Jeannnn",
+      "id": "1"
+    },
+    {
+      "cate_name": "Denim",
+      "image": "https://static.pullandbear.net/2/photos//2020/V/0/1/p/5713/205/400/5713205400_2_1_8.jpg?t=1577703570465&imwidth=1125",
+      "desc": "Denim",
+      "id": "2"
+    },
+    {
+      "cate_name": "T-Shirt",
+      "image": "https://i.pinimg.com/736x/18/c1/29/18c129541a62cfc5d91298b781f0db9e.jpg",
+      "desc": "T-Shirt",
+      "id": "3"
+    },
+    {
+      "cate_name": "Skirt",
+      "image": "https://cdn.shopify.com/s/files/1/0100/1462/1758/products/product-image-686265308.jpg?v=1573013757",
+      "desc": "Skirt",
+      "id": "4"
+    },
+    {
+      "cate_name": "Hatt",
+      "image": "https://cdn.vuahanghieu.com/unsafe/0x0/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/news/content/2020/02/mu-mlb-men-s-new-york-yankees-adjustable-hat-black-1-jpg-1580708136-03022020123536.jpg",
+      "desc": "hat",
+      "id": "5"
+    },
+    {
+      "cate_name": "Hoodie",
+      "image": "https://bizweb.dktcdn.net/100/369/010/products/hoodie-basic-hologram-bla-1-w.png?v=1583289824903",
+      "desc": "Hoodie",
+      "id": "ND92pPZ"
+    },
+    {
+      "cate_name": "Glasses",
+      "image": "https://d1u18ka6p421dn.cloudfront.net/glasses-images/30474390-front-940x529.jpg",
+      "desc": "glasses",
+      "id": "KlWM-qL"
+    },
+    {
+      "cate_name": "Cams",
+      "image": "aa",
+      "desc": "aa",
+      "id": "hNhETaU"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "8",
+      "title": "Black Friday Guide: Best Sales & Discount Codes",
+      "content": "Duis ut velit gravida nibh bibendum commodo. Sus-pendisse pellentesque mattis augue id euismod. Inter-dum et malesuada fames",
+      "cate_blogs": "6"
+    },
+    {
+      "id": "5",
+      "title": "The White Sneakers Nearly Every Fashion Girls Own",
+      "content": "Duis ut velit gravida nibh bibendum commodo. Sus-pendisse pellentesque mattis augue id euismod. Inter-dum et malesuada fames",
+      "cate_blogs": "5"
+    },
+    {
+      "id": "6",
+      "title": "New York SS 2018 Street Style: Annina Mislin",
+      "content": "Duis ut velit gravida nibh bibendum commodo. Sus-pendisse pellentesque mattis augue id euismod. Inter-dum et malesuada fames",
+      "cate_blogs": "8"
+    },
+    {
+      "title": "Inter-dum et malesuada fames & Discount Codes",
+      "cate_blogs": "6",
+      "content": "Duis ut velit gravida nibh bibendum commodo. Sus-pendisse pellentesque mattis augue id euismod. Inter-dum et malesuada fames",
+      "id": "7"
+    },
+    {
+      "title": "Kênh thông tin mua bán bất động sản - Mua bán nhà đất số 1 Việt Nam",
+      "cate_blogs": "6",
+      "content": "dxgsssssssssssssssssss",
+      "id": "a9WJx4C"
+    },
+    {
+      "title": "Nhà đầu tư có thực sự “ngồi yên” trong đại dịch COVID-19?",
+      "cate_blogs": "6",
+      "content": "nghhg",
+      "id": "CKnXgiA"
+    }
+  ],
+  "cateblogs": [
+    {
+      "id": "5",
+      "name": "Sus-pendisse pellentesque"
+    },
+    {
+      "id": "7",
+      "name": "nibh bibendum commodo"
+    },
+    {
+      "id": "6",
+      "name": "Inter-dum et malesuada"
+    },
+    {
+      "id": "8",
+      "name": "velit gravida nibh bibendum commodo"
+    }
+  ]
+}
